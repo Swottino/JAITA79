@@ -1,6 +1,6 @@
 Per eseguire correttamente il progetto effettuare i seguenti passaggi:
 
-- Eseguire il file DumpDbFlashMall su MySQL.
+- Eseguire il file DumpDbFlashMall su MySQL che si trova all'interno della cartella supermercato.
   Creare il db con nome "alimentari", selezionarlo ed eseguire il codice copiato da DumpDbFlashMall.
   NB: Il nostro costruttore del db non prende in entrata valori di username e password poiché li abbiamo di default,
   rispettivamente come "root", "root".  
